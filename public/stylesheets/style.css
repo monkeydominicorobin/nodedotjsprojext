@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image:url("http://unsplash.it/1500/800?image=102");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+
+a {
+  color: #00B7FF;
+}
