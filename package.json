@@ -1,7 +1,11 @@
-gi{
+{
   "name": "workspace",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
+  "engines": {
+    "node": "4.7.3",
+    "npm": "2.15.11"
+  },
   "scripts": {
     "start": "node ./bin/www"
   },
