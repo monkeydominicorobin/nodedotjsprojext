@@ -4,3 +4,5 @@ Unix Time Stamp Microservice
 >A mediocre but somewhat functional venture into node js
 
 >It also involves routing and templating.
+
+>It will be more rewarding to your self-esteem if you are already studying node js and express js
