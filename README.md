@@ -5,6 +5,8 @@ Unix Time Stamp Microservice
 
 >It also involves routing and templating.
 
+>It works even wirhout numerical date.
+
 >It will be more rewarding to your self-esteem if you are already studying node js and express js
 
 >Surprisingly, I did learn a lot during the deployment process.
