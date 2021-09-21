@@ -5,7 +5,7 @@ Unix Time Stamp Microservice
 
 >It also involves routing and templating.
 
->It works even without numerical date.
+>It works even without numerical date input coming from the end user.
 
 >It will be more rewarding to your self-esteem if you are already studying node js and express js
 
