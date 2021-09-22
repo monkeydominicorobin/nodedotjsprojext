@@ -11,6 +11,10 @@ Unix Time Stamp Microservice
 
 >Surprisingly, I did learn a lot during the deployment process.
 
+**Create A Mini Project Directory**
+
+```root@kali# mkdir miniprojectnode/```
+
 **Just Clone The Repository**
 
 ```root@kali# git clone https://github.com/monkeydominicorobin/nodedotjsprojext.git```
